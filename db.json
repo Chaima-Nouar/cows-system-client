@@ -1,0 +1,63 @@
+{
+  "cows": [
+    {
+      "number": "241553",
+      "date": "2023-05-29",
+      "type": "holstein",
+      "id": 3
+    },
+    {
+      "number": "12345",
+      "date": "2023-06-25",
+      "type": "holstein",
+      "id": 4
+    },
+    {
+      "number": "12345",
+      "date": "2023-06-25",
+      "type": "holstein",
+      "id": 5
+    }
+  ],
+  "medical": [
+    {
+      "cowId": "3",
+      "date": "2023-06-19",
+      "sicknes": "feever",
+      "id": 1
+    },
+    {
+      "cowId": "3",
+      "date": "2023-06-20",
+      "sicknes": "grip",
+      "id": 2
+    },
+    {
+      "cowId": "3",
+      "date": "2023-06-19",
+      "sicknes": "feever",
+      "id": 3
+    },
+    {
+      "cowId": "4",
+      "date": "2023-06-19",
+      "sicknes": "feever",
+      "id": 4
+    }
+  ],
+  "children": [
+    {
+      "id": 1,
+      "cowNumber": 1234,
+      "number": 7890,
+      "birthday": "13/12/2020"
+    }
+  ],
+  "Milk": [
+    {
+      "id": 1,
+      "day": "13/12/2020",
+      "production": 3
+    }
+  ]
+}
